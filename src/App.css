@@ -1,0 +1,13 @@
+.container {
+  width: 90vw;
+  height: 90vh;
+  margin-top: 5vh;
+  border: 2px solid #c6c6c6;
+  border-radius: 0.66em;
+  padding: 1.66em;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
